@@ -1,0 +1,16 @@
+.project-image img{
+  width: 439.95px;
+  height: 210px;
+  object-fit: cover;
+}
+
+.icon-holder{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon-title{
+  font-size: 22px;
+  font-weight: bold;
+}
