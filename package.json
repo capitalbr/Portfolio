@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "react-icons": "^3.7.0",
-    "webpack": "^4.39.2"
+    "webpack": "^5.75.0"
   }
 }
